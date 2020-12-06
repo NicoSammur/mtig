@@ -1,0 +1,92 @@
+location,continent,life_expectancy,handwashing_facilities,total_deaths,total_cases,total_deaths_devided_by_total_cases
+Afghanistan,Asia,64.83,37.746,1418.0,38520.0,0.037
+Algeria,Africa,76.88,83.741,1571.0,46938.0,0.033
+Angola,Africa,61.15,26.664,120.0,2981.0,0.04
+Armenia,Asia,75.09,94.043,903.0,44953.0,0.02
+Azerbaijan,Asia,73.0,83.241,552.0,37557.0,0.015
+Bangladesh,Asia,72.59,34.808,4552.0,329251.0,0.014
+Barbados,North America,79.19,88.469,7.0,180.0,0.039
+Belize,North America,74.62,90.083,16.0,1361.0,0.012
+Benin,Africa,61.77,11.035,40.0,2213.0,0.018
+Bhutan,Asia,71.78,79.807,0.0,234.0,0.0
+Bolivia,South America,71.51,25.383,7097.0,122308.0,0.058
+Bosnia and Herzegovina,Europe,77.4,97.164,669.0,21961.0,0.03
+Burkina Faso,Africa,61.58,11.877,56.0,1466.0,0.038
+Burundi,Africa,61.58,6.144,1.0,466.0,0.002
+Cambodia,Asia,69.82,66.229,0.0,274.0,0.0
+Cameroon,Africa,59.29,2.735,414.0,19604.0,0.021
+Central African Republic,Africa,53.28,16.603,62.0,4736.0,0.013
+Chad,Africa,54.24,5.818,79.0,1045.0,0.076
+Colombia,South America,77.29,65.386,21817.0,679513.0,0.032
+Comoros,Africa,64.32,15.574,7.0,452.0,0.015
+Congo,Africa,64.57,47.964,83.0,4891.0,0.017
+Costa Rica,North America,80.28,83.841,531.0,49897.0,0.011
+Cote d'Ivoire,Africa,57.78,19.351,119.0,18778.0,0.006
+Cuba,North America,78.8,85.198,104.0,4377.0,0.024
+Democratic Republic of Congo,Africa,60.68,4.472,259.0,10291.0,0.025
+Dominican Republic,North America,74.08,55.182,1889.0,100131.0,0.019
+Ecuador,South America,77.01,80.635,10627.0,110757.0,0.096
+Egypt,Africa,71.99,89.827,5560.0,100228.0,0.055
+El Salvador,North America,73.32,90.65,765.0,26511.0,0.029
+Equatorial Guinea,Africa,58.74,24.64,83.0,4985.0,0.017
+Ethiopia,Africa,66.6,7.96,949.0,60784.0,0.016
+Gambia,Africa,62.05,7.876,99.0,3275.0,0.03
+Ghana,Africa,64.07,41.047,283.0,45012.0,0.006
+Guatemala,North America,74.3,76.665,2890.0,78721.0,0.037
+Guinea,Africa,61.6,17.45,63.0,9848.0,0.006
+Guinea-Bissau,Africa,58.32,6.403,38.0,2245.0,0.017
+Guyana,South America,69.91,77.159,48.0,1613.0,0.03
+Haiti,North America,64.0,22.863,214.0,8376.0,0.026
+Honduras,North America,75.27,84.169,2034.0,65218.0,0.031
+India,Asia,69.66,59.55,73890.0,4370128.0,0.017
+Indonesia,Asia,71.72,64.204,8230.0,200035.0,0.041
+Iraq,Asia,70.6,94.576,7657.0,269578.0,0.028
+Jamaica,North America,74.47,66.425,36.0,3323.0,0.011
+Kazakhstan,Asia,73.6,98.999,1950.0,134726.0,0.014
+Kenya,Africa,66.7,24.651,599.0,35356.0,0.017
+Kyrgyzstan,Asia,71.45,89.22,1061.0,44613.0,0.024
+Laos,Asia,67.92,49.839,0.0,22.0,0.0
+Lesotho,Africa,54.33,2.117,31.0,1164.0,0.027
+Liberia,Africa,64.1,1.188,82.0,1311.0,0.063
+Madagascar,Africa,67.04,50.54,206.0,15435.0,0.013
+Malawi,Africa,64.26,8.704,176.0,5630.0,0.031
+Maldives,Asia,78.92,95.803,29.0,8741.0,0.003
+Mali,Africa,59.31,52.232,127.0,2882.0,0.044
+Mauritania,Africa,64.92,15.95,160.0,7149.0,0.022
+Mexico,North America,75.05,87.847,68484.0,642860.0,0.107
+Moldova,Europe,71.9,86.979,1087.0,40556.0,0.027
+Mongolia,Asia,69.87,71.18,0.0,310.0,0.0
+Mozambique,Africa,60.85,12.227,28.0,4647.0,0.006
+Myanmar,Asia,67.13,79.287,12.0,1807.0,0.007
+Namibia,Africa,63.71,44.6,91.0,8928.0,0.01
+Nepal,Asia,70.78,47.782,306.0,48138.0,0.006
+Niger,Africa,62.42,8.978,69.0,1178.0,0.059
+Nigeria,Africa,54.69,41.949,1067.0,55456.0,0.019
+Oman,Asia,77.86,97.4,742.0,87590.0,0.008
+Pakistan,Asia,67.27,59.607,6359.0,299659.0,0.021
+Paraguay,South America,74.25,79.602,463.0,24214.0,0.019
+Philippines,Asia,71.23,78.463,3916.0,241987.0,0.016
+Rwanda,Africa,69.02,4.617,20.0,4439.0,0.005
+Saint Lucia,North America,76.2,87.202,0.0,26.0,0.0
+Sao Tome and Principe,Africa,70.39,41.34,15.0,898.0,0.017
+Senegal,Africa,67.94,20.859,292.0,14044.0,0.021
+Serbia,Europe,76.0,97.719,727.0,31994.0,0.023
+Sierra Leone,Africa,54.7,19.275,72.0,2064.0,0.035
+Somalia,Africa,57.4,9.831,97.0,3362.0,0.029
+South Africa,Africa,64.13,43.993,15086.0,640441.0,0.024
+Sudan,Africa,65.31,23.437,833.0,13437.0,0.062
+Suriname,South America,71.68,67.779,91.0,4419.0,0.021
+Swaziland,Africa,60.19,24.097,96.0,4904.0,0.02
+Syria,Asia,72.7,70.598,140.0,3289.0,0.043
+Tajikistan,Asia,71.1,72.704,70.0,8860.0,0.008
+Tanzania,Africa,65.46,47.953,21.0,509.0,0.041
+Thailand,Asia,77.15,90.67,58.0,3447.0,0.017
+Timor,Asia,69.5,28.178,0.0,27.0,0.0
+Togo,Africa,61.04,10.475,34.0,1513.0,0.022
+Trinidad and Tobago,North America,73.51,89.443,39.0,2391.0,0.016
+Tunisia,Africa,76.7,78.687,96.0,5417.0,0.018
+Uganda,Africa,63.37,21.222,46.0,3900.0,0.012
+Vietnam,Asia,75.4,85.847,35.0,1054.0,0.033
+Yemen,Asia,66.12,49.542,576.0,1994.0,0.289
+Zambia,Africa,63.89,13.938,296.0,12952.0,0.023
+Zimbabwe,Africa,61.49,36.791,218.0,7388.0,0.03
